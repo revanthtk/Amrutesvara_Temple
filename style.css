@@ -1,0 +1,42 @@
+body{
+  background-color:#FAF1E4;
+}
+.con1{
+  background-color:#FAF1E4 ;
+  text-align: center;
+  }
+.p1{
+  font-size: 5.5rem;
+}
+.con2{
+
+}
+.img1{
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.img2{
+  float: right;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+p{
+  font-size: 1.5rem;
+
+}
+hr{
+
+  width: 100px;
+
+  border-style: dotted none none none;
+  border-width: 10px;
+  height: 1px
+}
+.con5{
+  padding-bottom:30px;
+
+  text-align: center;
+
+}
